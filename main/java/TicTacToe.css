@@ -1,0 +1,39 @@
+header{
+	position:relative;
+	font-size:2em;
+	
+	left:35%;
+}
+
+#game{
+position:absolute;
+width: 24em;
+left:35%;
+
+}
+
+#game td{
+	width: 8em;
+	height: 8em;
+	
+}
+
+#buttons{
+	position:absolute;
+	left: 35%;
+	margin-top: 28em;
+	width: 29em;
+	height:2em;
+}
+
+#buttons button{
+	width: 14.5em;
+	height: 2em;
+}
+
+td {
+border: 1px solid black;
+height: 50px;
+width: 50px;
+text-align: center;
+}
